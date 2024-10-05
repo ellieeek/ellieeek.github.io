@@ -13,7 +13,8 @@ date: 2024-10-06
 
 아래는 완성할 Bottom Navigation 화면이다. 
 
-![gif](android_bottom_navi_fast.gif)
+![image](https://github.com/user-attachments/assets/5b5be38e-05ac-44b0-b938-b580a5192d3c)
+
 
 ## 1. Bottom Navigation이란?
 앱 화면 하단에 3-5개의 아이템을 표시하여 사용자가 앱의 주요 기능을 탐색할 수 있게 해주는 UI 컴포넌트를 말한다.
@@ -48,6 +49,8 @@ Fragment (Blank) 로 생성하였고, 지정한 Name에 따라 XML 파일도 같
 
 우선 res 디렉토리 밑에 menu 디렉토리를 생성한다.<br>
 Bottom Navigation의 UI 구성을 위해 res/menu_menu_bottom.xml 파일을 만들어준다.
+
+![image](https://github.com/user-attachments/assets/e7a87759-08c0-41c5-8315-064681cb57fe)
 
 
 ```xml
