@@ -13,8 +13,7 @@ date: 2024-10-06
 
 아래는 완성할 Bottom Navigation 화면이다. 
 
-![image](https://github.com/user-attachments/assets/5b5be38e-05ac-44b0-b938-b580a5192d3c)
-
+assets/android_bottom_navi_fast.gif
 
 ## 1. Bottom Navigation이란?
 앱 화면 하단에 3-5개의 아이템을 표시하여 사용자가 앱의 주요 기능을 탐색할 수 있게 해주는 UI 컴포넌트를 말한다.
@@ -95,12 +94,13 @@ Tip)
 기본 제공하는 아이콘 사용하기
 
 1) res/drawable/New/Vector Asset을 눌러준다.
-![alt text](cap.png)
+![image](https://github.com/user-attachments/assets/8413e130-9ce4-4576-9d0d-8f95b98011b6)
 
 <br>
 
 2) Clip art의 아이콘을 눌러 원하는 아이콘 모양을 선택하여 저장한다.
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/5c98092e-5ebd-42a5-ada6-f265fd5cf3a3)
+
 
 <br>
 
