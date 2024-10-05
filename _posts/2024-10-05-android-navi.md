@@ -13,7 +13,8 @@ date: 2024-10-06
 
 아래는 완성할 Bottom Navigation 화면이다. 
 
-assets/android_bottom_navi_fast.gif
+![android_bottom_navi_fast](https://github.com/user-attachments/assets/48cfd167-03f8-4c9d-b29d-b7e720e426b2)
+
 
 ## 1. Bottom Navigation이란?
 앱 화면 하단에 3-5개의 아이템을 표시하여 사용자가 앱의 주요 기능을 탐색할 수 있게 해주는 UI 컴포넌트를 말한다.
