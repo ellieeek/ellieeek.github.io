@@ -2,7 +2,7 @@
 layout: post
 categories: Android
 tags: Android, Kotlin, Navi, Navigation
-title: [Android] 안드로이드 코틀린 Bottom Navigation 만들기
+title: 안드로이드 코틀린 Bottom Navigation 만들기
 date: 2024-10-05
 ---
 
